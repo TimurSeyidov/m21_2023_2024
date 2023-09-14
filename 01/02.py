@@ -1,1 +1,1 @@
-print('Query')
+print('Hello my little friend')
